@@ -1,0 +1,6 @@
+framework module Dkit_Dragdrop {
+  umbrella header "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h"
+
+  export *
+  module * { export * }
+}
