@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  Dkit_Dragdrop: 1c12a73c6e9d86f7f473622a003f0f7f29c27ea6
+  Dkit_Dragdrop: 5eecca0155fe298dd5df0202b77f63de091a3f76
 
 COCOAPODS: 0.37.2

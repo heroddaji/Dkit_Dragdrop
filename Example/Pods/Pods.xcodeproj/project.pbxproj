@@ -7,378 +7,378 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1FC500F6BBCA3B00CC53C7E8 /* Pods-Dkit_Dragdrop_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 265D0AEC7144FC6776FD6ACA /* Pods-Dkit_Dragdrop_Example-dummy.m */; };
-		4FA5516E69A7854BD09130AF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F95AEE7778393049AB53F93 /* Foundation.framework */; };
-		5B35148EC731CEE3E3B05AC3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F95AEE7778393049AB53F93 /* Foundation.framework */; };
-		5C6FC43CEF410866F7E4E4D8 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473E35A711E2B85ED825FF2E /* ReplaceMe.swift */; };
-		849C93D46BC3F0E55C98240A /* Dkit_Dragdrop.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7484160ADF67E72BBD723DD0 /* Dkit_Dragdrop.bundle */; };
-		87B01D2FEA4FD9AD8131D9F0 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4325CA631F40737C9520EDB0 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-dummy.m */; };
-		A51F17FE56F2CD7BA13ADE65 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FA9D926AD318A158998F4705 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A853DDB93048F4EC8CA1C039 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F95AEE7778393049AB53F93 /* Foundation.framework */; };
-		AB615794498C7A52D3405D83 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3085E34CF13F610DC2B15ED2 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m */; };
-		B311E75E3246DACE38D933E8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F95AEE7778393049AB53F93 /* Foundation.framework */; };
-		B5B97FC8F1AD6AB1BBF9E9C3 /* Pods-Dkit_Dragdrop_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B43280A25C8B1B58D6800575 /* Pods-Dkit_Dragdrop_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BFB4359C5E19BB569A3DCB65 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 03B0DB21AD419670086F0136 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D0544615D0CBED6563C399F2 /* Pods-Dkit_Dragdrop_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EB599131FF387275CBF021AF /* Pods-Dkit_Dragdrop_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DC30DBAB04615AEA0823C55E /* Dkit_Dragdrop.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1BFD507D4C10C822DF833D7D /* Dkit_Dragdrop.bundle */; };
-		F69E4D2F9FE314F093B4CBC5 /* Pods-Dkit_Dragdrop_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F65CCEA6367FA9B67620B6E /* Pods-Dkit_Dragdrop_Tests-dummy.m */; };
-		FC268288F6053180C19D65AD /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473E35A711E2B85ED825FF2E /* ReplaceMe.swift */; };
+		001F318170E642A4F6CE1F61 /* Pods-Dkit_Dragdrop_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 98AE4418F7C95DD4DCBB3E4B /* Pods-Dkit_Dragdrop_Tests-dummy.m */; };
+		227E41B07E4D30643EB9D963 /* DKDraggableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B47D32241BAC07B9664CF9D /* DKDraggableView.swift */; };
+		61FE33016562BE2C200A6ED0 /* DKDraggableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B47D32241BAC07B9664CF9D /* DKDraggableView.swift */; };
+		6AF15BEF49B8BF0B42839006 /* Pods-Dkit_Dragdrop_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 987A8DEA28B842E25BE0791E /* Pods-Dkit_Dragdrop_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6C3E61F2330873AA7B5D77F4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F64A670EC3977837E5C3F56 /* Foundation.framework */; };
+		82CB8455BE6FE57CFE663529 /* Pods-Dkit_Dragdrop_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5901DA8C60C58A48EBA5D123 /* Pods-Dkit_Dragdrop_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		88E9D10D3FB9AFD86A708B96 /* Dkit_Dragdrop.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B4BF10AFBCFCE1190CFFD96D /* Dkit_Dragdrop.bundle */; };
+		8E6C4B85616CA2DA861B1A7B /* Pods-Dkit_Dragdrop_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FC772775EEF238A120771F96 /* Pods-Dkit_Dragdrop_Example-dummy.m */; };
+		96B013B44E18EBA9D71A56C8 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 32512CD2D8D8A5B02EAE267D /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-dummy.m */; };
+		AF9B7A4F6D945232E33AE9AB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F64A670EC3977837E5C3F56 /* Foundation.framework */; };
+		B761DCDE00EF725AF3D73DDB /* Dkit_Dragdrop.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B948C033C92594D84485C348 /* Dkit_Dragdrop.bundle */; };
+		C4F3E30D4D0FA65118FB7767 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 779BD03528A56EFF9679BF15 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CACB710CD3C65EF6C3E4D5E6 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AD861FB03774976D9AC6D24A /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m */; };
+		D909C2983AA893673D0910BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F64A670EC3977837E5C3F56 /* Foundation.framework */; };
+		D92985272AD59644A50E9B02 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1045F8871253626EA2AA7AE1 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F13EDF8C981DD52058B855D2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F64A670EC3977837E5C3F56 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		27B7DDC144117275CCF96B78 /* PBXContainerItemProxy */ = {
+		371A7BD8A8FCCAC97188953C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2D95122E28F7B188538E20DF /* Project object */;
+			containerPortal = 3D780E7D7CE3D4D29D461AF8 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 930EB381397EE7E5BB26F735;
-			remoteInfo = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop";
-		};
-		D06BC27E1157A456F2F149C8 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 2D95122E28F7B188538E20DF /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 5C8CB62DE55EE1ED7E217641;
+			remoteGlobalIDString = 93606AEB0067CF4F741632FA;
 			remoteInfo = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop";
 		};
-		D8B6AF29D712AE9A524C832D /* PBXContainerItemProxy */ = {
+		4294024E7EA8E9AE49A33FB1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2D95122E28F7B188538E20DF /* Project object */;
+			containerPortal = 3D780E7D7CE3D4D29D461AF8 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 8EFD2E602F6F4FB250DFE978;
-			remoteInfo = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop";
-		};
-		E0DE571A7882CB81BF664F9C /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 2D95122E28F7B188538E20DF /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F05B2D9DF967D21E2D17F2A6;
+			remoteGlobalIDString = ABE44063E81C01424D9E5F10;
 			remoteInfo = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop";
+		};
+		AEB013612D58A74AB99016AC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3D780E7D7CE3D4D29D461AF8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C1D44D547948135A78CDEAD3;
+			remoteInfo = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop";
+		};
+		D2341C8EE445225072D23ECE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3D780E7D7CE3D4D29D461AF8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 984D6F9B80CA425068DCC5E0;
+			remoteInfo = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		015DD16762FC6C2A54D5B94F /* Pods-Dkit_Dragdrop_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dkit_Dragdrop_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		03B0DB21AD419670086F0136 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h"; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h"; sourceTree = "<group>"; };
-		06BE4483A2165B45CA75B1F9 /* Pods-Dkit_Dragdrop_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dkit_Dragdrop_Example.release.xcconfig"; sourceTree = "<group>"; };
-		06DE3628B9A38127447E0093 /* Pods-Dkit_Dragdrop_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Dkit_Dragdrop_Example.modulemap"; sourceTree = "<group>"; };
-		0FFA3FD2E8729360317A7A06 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		1B8E33E7B3DC71382E949394 /* Pods-Dkit_Dragdrop_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Dkit_Dragdrop_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		1BFD507D4C10C822DF833D7D /* Dkit_Dragdrop.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Dkit_Dragdrop.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		1D06F7EA6E8D31B6E0B1CC10 /* Pods-Dkit_Dragdrop_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Dkit_Dragdrop_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		235FB63A60ABDAF9DD64DE4F /* Pods_Dkit_Dragdrop_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Dkit_Dragdrop_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		265D0AEC7144FC6776FD6ACA /* Pods-Dkit_Dragdrop_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Dkit_Dragdrop_Example-dummy.m"; sourceTree = "<group>"; };
-		2F2B27C319A10C04CCAC3962 /* Pods-Dkit_Dragdrop_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Dkit_Dragdrop_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		3085E34CF13F610DC2B15ED2 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m"; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m"; sourceTree = "<group>"; };
-		3476ACC4D14F0A72F755F73A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3ECB0EB7E9859294A4C87060 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3F95AEE7778393049AB53F93 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		4325CA631F40737C9520EDB0 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-dummy.m"; sourceTree = "<group>"; };
-		473E35A711E2B85ED825FF2E /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
-		4F65CCEA6367FA9B67620B6E /* Pods-Dkit_Dragdrop_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Dkit_Dragdrop_Tests-dummy.m"; sourceTree = "<group>"; };
-		64D2181CD3CBFCD82FDE8978 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Info.plist"; sourceTree = "<group>"; };
-		675EB6AB8C55D9329476373B /* Pods-Dkit_Dragdrop_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Dkit_Dragdrop_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		6E3EFF9335CF764FB482D480 /* Pods-Dkit_Dragdrop_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Dkit_Dragdrop_Tests-resources.sh"; sourceTree = "<group>"; };
-		7484160ADF67E72BBD723DD0 /* Dkit_Dragdrop.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Dkit_Dragdrop.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		7829336D7B3311EDCD906EB1 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-prefix.pch"; sourceTree = "<group>"; };
-		807F07D7E07DDDFC8C5E7C45 /* Pods-Dkit_Dragdrop_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Dkit_Dragdrop_Example-frameworks.sh"; sourceTree = "<group>"; };
-		8084E2634591DFE4406F67C1 /* Pods-Dkit_Dragdrop_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dkit_Dragdrop_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		8BDF428E1020AEB0DADBA147 /* Dkit_Dragdrop.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Dkit_Dragdrop.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		90EE90D4143A7FF33B1E0AA1 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.xcconfig"; sourceTree = "<group>"; };
-		96E858BDF8D9FDA13F9E6D30 /* Pods-Dkit_Dragdrop_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Dkit_Dragdrop_Example-resources.sh"; sourceTree = "<group>"; };
-		A1F7ABBCF78549C02C88ED07 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.modulemap"; sourceTree = "<group>"; };
-		AB69E9B1738B20CC151508D3 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig"; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig"; sourceTree = "<group>"; };
-		AB9D95DA678443161CF39C40 /* Pods-Dkit_Dragdrop_Tests-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dkit_Dragdrop_Tests-environment.h"; sourceTree = "<group>"; };
-		AE3C5E0C54128B74706E6665 /* Pods-Dkit_Dragdrop_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Dkit_Dragdrop_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		B43280A25C8B1B58D6800575 /* Pods-Dkit_Dragdrop_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dkit_Dragdrop_Example-umbrella.h"; sourceTree = "<group>"; };
-		C308C4A283FF8570848D0385 /* Pods-Dkit_Dragdrop_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dkit_Dragdrop_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		CA1B4B3EC2C57AF9F1E4280B /* Pods_Dkit_Dragdrop_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Dkit_Dragdrop_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CC64E078DE731762DAB72FF8 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig"; sourceTree = "<group>"; };
-		CEF37F4D3D14EEFD38153EB7 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-prefix.pch"; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-prefix.pch"; sourceTree = "<group>"; };
-		E1DCDF0297A71DCF80A6E80B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E7A336D04A4FB3C27BD55781 /* Pods-Dkit_Dragdrop_Example-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dkit_Dragdrop_Example-environment.h"; sourceTree = "<group>"; };
-		EB599131FF387275CBF021AF /* Pods-Dkit_Dragdrop_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dkit_Dragdrop_Tests-umbrella.h"; sourceTree = "<group>"; };
-		F077C33F624ED3D99A12728B /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.xcconfig"; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.xcconfig"; sourceTree = "<group>"; };
-		F21E44FD0446AB19000713A0 /* Pods-Dkit_Dragdrop_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Dkit_Dragdrop_Tests.modulemap"; sourceTree = "<group>"; };
-		F275227BF91BCB2B46952433 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap"; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap"; sourceTree = "<group>"; };
-		F8B79C8F832C7776969045BC /* Dkit_Dragdrop.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Dkit_Dragdrop.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FA9D926AD318A158998F4705 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-umbrella.h"; sourceTree = "<group>"; };
+		0585A34F8CFDB6D5F9B2BBB9 /* Pods-Dkit_Dragdrop_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Dkit_Dragdrop_Example-resources.sh"; sourceTree = "<group>"; };
+		07BE8905AE94D1A3B42E53A0 /* Pods-Dkit_Dragdrop_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Dkit_Dragdrop_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		0A545C863AB516323A9CCCB2 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-prefix.pch"; sourceTree = "<group>"; };
+		0F64A670EC3977837E5C3F56 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		1045F8871253626EA2AA7AE1 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h"; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h"; sourceTree = "<group>"; };
+		10F983B582923DBAFB5B3FA9 /* Pods-Dkit_Dragdrop_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Dkit_Dragdrop_Example-frameworks.sh"; sourceTree = "<group>"; };
+		1E3AD19D0B03226531826A37 /* Pods_Dkit_Dragdrop_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Dkit_Dragdrop_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		21DC691B830CF05F2C11528E /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.xcconfig"; sourceTree = "<group>"; };
+		2668BA7924EE4A0239CDA7EB /* Pods-Dkit_Dragdrop_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Dkit_Dragdrop_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		2B3C5511E01F2319362B7B72 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.modulemap"; sourceTree = "<group>"; };
+		30501EAAA496CEAC0B6507BB /* Pods-Dkit_Dragdrop_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dkit_Dragdrop_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		32512CD2D8D8A5B02EAE267D /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-dummy.m"; sourceTree = "<group>"; };
+		35234AD9FDDB1D9201DD1C92 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D2F808A7EA4413A2F1756C4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B47D32241BAC07B9664CF9D /* DKDraggableView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DKDraggableView.swift; sourceTree = "<group>"; };
+		4C1318869861FCF8B75CD66D /* Pods-Dkit_Dragdrop_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Dkit_Dragdrop_Tests.modulemap"; sourceTree = "<group>"; };
+		5341A30D9A6DCA4E702F6F62 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Info.plist"; sourceTree = "<group>"; };
+		53D28C2CD45E7DACE5B477CF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5901DA8C60C58A48EBA5D123 /* Pods-Dkit_Dragdrop_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dkit_Dragdrop_Example-umbrella.h"; sourceTree = "<group>"; };
+		59BBAAA66439A21B099DC052 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig"; sourceTree = "<group>"; };
+		5BBAD80378ED47ACCF2E1062 /* Pods-Dkit_Dragdrop_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dkit_Dragdrop_Example.release.xcconfig"; sourceTree = "<group>"; };
+		6AC29EE749CBE69B9145516D /* Dkit_Dragdrop.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Dkit_Dragdrop.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7581DABAD4ADB7B6F555ABC9 /* Pods-Dkit_Dragdrop_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Dkit_Dragdrop_Tests-resources.sh"; sourceTree = "<group>"; };
+		779BD03528A56EFF9679BF15 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-umbrella.h"; sourceTree = "<group>"; };
+		7B1796824C6D4F20D82C0AE1 /* Pods-Dkit_Dragdrop_Example-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dkit_Dragdrop_Example-environment.h"; sourceTree = "<group>"; };
+		7B991DD6FD74340646835B86 /* Pods_Dkit_Dragdrop_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Dkit_Dragdrop_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C12730BD2593994CF06F3A6 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-prefix.pch"; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-prefix.pch"; sourceTree = "<group>"; };
+		7FC1B7EB9C72E718161774B6 /* Pods-Dkit_Dragdrop_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Dkit_Dragdrop_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		8108E79DE6ED0DA7E01200AF /* Pods-Dkit_Dragdrop_Tests-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dkit_Dragdrop_Tests-environment.h"; sourceTree = "<group>"; };
+		8A20C38AA0A6D670B4485D76 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap"; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap"; sourceTree = "<group>"; };
+		8F5008BE36CE88156CAEB6B5 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.xcconfig"; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.xcconfig"; sourceTree = "<group>"; };
+		912A5CDC14B7E3F83BC176AA /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig"; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig"; sourceTree = "<group>"; };
+		986AC301F4755EFC6AB4097F /* Dkit_Dragdrop.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Dkit_Dragdrop.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		987A8DEA28B842E25BE0791E /* Pods-Dkit_Dragdrop_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Dkit_Dragdrop_Tests-umbrella.h"; sourceTree = "<group>"; };
+		98AE4418F7C95DD4DCBB3E4B /* Pods-Dkit_Dragdrop_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Dkit_Dragdrop_Tests-dummy.m"; sourceTree = "<group>"; };
+		9D8DA4E324CC4EAEA20143C9 /* Pods-Dkit_Dragdrop_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Dkit_Dragdrop_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		AD861FB03774976D9AC6D24A /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m"; path = "../Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m"; sourceTree = "<group>"; };
+		B4BF10AFBCFCE1190CFFD96D /* Dkit_Dragdrop.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Dkit_Dragdrop.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		B948C033C92594D84485C348 /* Dkit_Dragdrop.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Dkit_Dragdrop.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE50A3A994E2A6104563783D /* Pods-Dkit_Dragdrop_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Dkit_Dragdrop_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		C949D98C8F38017AB625C37C /* Pods-Dkit_Dragdrop_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dkit_Dragdrop_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		CDEA70E7EA5613611FF5D9C0 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D9F825561F85B73AE9FA14F7 /* Pods-Dkit_Dragdrop_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Dkit_Dragdrop_Example.modulemap"; sourceTree = "<group>"; };
+		E4AC33630641A643CCF80DD8 /* Pods-Dkit_Dragdrop_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Dkit_Dragdrop_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		FC772775EEF238A120771F96 /* Pods-Dkit_Dragdrop_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Dkit_Dragdrop_Example-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2EDFA8ADA307A0C957F6834E /* Frameworks */ = {
+		12DDF2BF40B7098CAA3CA986 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4FA5516E69A7854BD09130AF /* Foundation.framework in Frameworks */,
+				D909C2983AA893673D0910BF /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		44E3CF9D27C486AF31E54209 /* Frameworks */ = {
+		2E68E914005E6C1D923F3B78 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5B35148EC731CEE3E3B05AC3 /* Foundation.framework in Frameworks */,
+				F13EDF8C981DD52058B855D2 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4BA0B3C9F02D3F96F51F4490 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		64FAA78C6AF1AE347C23D616 /* Frameworks */ = {
+		39B65BD276BAECCBA78ADAD4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6C104BBC246B53779B285A67 /* Frameworks */ = {
+		3E45DBF542B9F228A6C3BF7C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A853DDB93048F4EC8CA1C039 /* Foundation.framework in Frameworks */,
+				6C3E61F2330873AA7B5D77F4 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ADF539A9653C0FF656A40BBF /* Frameworks */ = {
+		7AFCA67B17C25DCC1BEFF0A7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B311E75E3246DACE38D933E8 /* Foundation.framework in Frameworks */,
+				AF9B7A4F6D945232E33AE9AB /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB17013A5D50D2463C941EE4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		48C43046FD4B9F7561E5873A /* Classes */ = {
+		0C9FD4C5F2F046474D7CEAC4 /* Pods-Dkit_Dragdrop_Tests */ = {
 			isa = PBXGroup;
 			children = (
-				473E35A711E2B85ED825FF2E /* ReplaceMe.swift */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		57F0742410D058551852A836 /* Pods-Dkit_Dragdrop_Example */ = {
-			isa = PBXGroup;
-			children = (
-				3ECB0EB7E9859294A4C87060 /* Info.plist */,
-				06DE3628B9A38127447E0093 /* Pods-Dkit_Dragdrop_Example.modulemap */,
-				1D06F7EA6E8D31B6E0B1CC10 /* Pods-Dkit_Dragdrop_Example-acknowledgements.markdown */,
-				1B8E33E7B3DC71382E949394 /* Pods-Dkit_Dragdrop_Example-acknowledgements.plist */,
-				265D0AEC7144FC6776FD6ACA /* Pods-Dkit_Dragdrop_Example-dummy.m */,
-				E7A336D04A4FB3C27BD55781 /* Pods-Dkit_Dragdrop_Example-environment.h */,
-				807F07D7E07DDDFC8C5E7C45 /* Pods-Dkit_Dragdrop_Example-frameworks.sh */,
-				96E858BDF8D9FDA13F9E6D30 /* Pods-Dkit_Dragdrop_Example-resources.sh */,
-				B43280A25C8B1B58D6800575 /* Pods-Dkit_Dragdrop_Example-umbrella.h */,
-				8084E2634591DFE4406F67C1 /* Pods-Dkit_Dragdrop_Example.debug.xcconfig */,
-				06BE4483A2165B45CA75B1F9 /* Pods-Dkit_Dragdrop_Example.release.xcconfig */,
-			);
-			name = "Pods-Dkit_Dragdrop_Example";
-			path = "Target Support Files/Pods-Dkit_Dragdrop_Example";
-			sourceTree = "<group>";
-		};
-		58CF0C2B47D0BF0BDF03CB16 /* Pods-Dkit_Dragdrop_Tests */ = {
-			isa = PBXGroup;
-			children = (
-				E1DCDF0297A71DCF80A6E80B /* Info.plist */,
-				F21E44FD0446AB19000713A0 /* Pods-Dkit_Dragdrop_Tests.modulemap */,
-				AE3C5E0C54128B74706E6665 /* Pods-Dkit_Dragdrop_Tests-acknowledgements.markdown */,
-				2F2B27C319A10C04CCAC3962 /* Pods-Dkit_Dragdrop_Tests-acknowledgements.plist */,
-				4F65CCEA6367FA9B67620B6E /* Pods-Dkit_Dragdrop_Tests-dummy.m */,
-				AB9D95DA678443161CF39C40 /* Pods-Dkit_Dragdrop_Tests-environment.h */,
-				675EB6AB8C55D9329476373B /* Pods-Dkit_Dragdrop_Tests-frameworks.sh */,
-				6E3EFF9335CF764FB482D480 /* Pods-Dkit_Dragdrop_Tests-resources.sh */,
-				EB599131FF387275CBF021AF /* Pods-Dkit_Dragdrop_Tests-umbrella.h */,
-				015DD16762FC6C2A54D5B94F /* Pods-Dkit_Dragdrop_Tests.debug.xcconfig */,
-				C308C4A283FF8570848D0385 /* Pods-Dkit_Dragdrop_Tests.release.xcconfig */,
+				3D2F808A7EA4413A2F1756C4 /* Info.plist */,
+				4C1318869861FCF8B75CD66D /* Pods-Dkit_Dragdrop_Tests.modulemap */,
+				7FC1B7EB9C72E718161774B6 /* Pods-Dkit_Dragdrop_Tests-acknowledgements.markdown */,
+				07BE8905AE94D1A3B42E53A0 /* Pods-Dkit_Dragdrop_Tests-acknowledgements.plist */,
+				98AE4418F7C95DD4DCBB3E4B /* Pods-Dkit_Dragdrop_Tests-dummy.m */,
+				8108E79DE6ED0DA7E01200AF /* Pods-Dkit_Dragdrop_Tests-environment.h */,
+				2668BA7924EE4A0239CDA7EB /* Pods-Dkit_Dragdrop_Tests-frameworks.sh */,
+				7581DABAD4ADB7B6F555ABC9 /* Pods-Dkit_Dragdrop_Tests-resources.sh */,
+				987A8DEA28B842E25BE0791E /* Pods-Dkit_Dragdrop_Tests-umbrella.h */,
+				E4AC33630641A643CCF80DD8 /* Pods-Dkit_Dragdrop_Tests.debug.xcconfig */,
+				C949D98C8F38017AB625C37C /* Pods-Dkit_Dragdrop_Tests.release.xcconfig */,
 			);
 			name = "Pods-Dkit_Dragdrop_Tests";
 			path = "Target Support Files/Pods-Dkit_Dragdrop_Tests";
 			sourceTree = "<group>";
 		};
-		5BD6502D184493CB5622FF86 /* Targets Support Files */ = {
+		1159F1ACC3C1A03E8A6C992A /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				57F0742410D058551852A836 /* Pods-Dkit_Dragdrop_Example */,
-				58CF0C2B47D0BF0BDF03CB16 /* Pods-Dkit_Dragdrop_Tests */,
+				0F64A670EC3977837E5C3F56 /* Foundation.framework */,
 			);
-			name = "Targets Support Files";
+			name = iOS;
 			sourceTree = "<group>";
 		};
-		601C495C124B33E38948DC85 /* Development Pods */ = {
+		12CAE8546D9E718E17653E02 /* Dkit_Dragdrop */ = {
 			isa = PBXGroup;
 			children = (
-				CD423312C7410C5B87E7AB71 /* Dkit_Dragdrop */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		9AFD1DF7B810C6738ED2BED8 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				48C43046FD4B9F7561E5873A /* Classes */,
-			);
-			path = Pod;
-			sourceTree = "<group>";
-		};
-		9DF45B884C69EA4FACE259C6 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				7484160ADF67E72BBD723DD0 /* Dkit_Dragdrop.bundle */,
-				1BFD507D4C10C822DF833D7D /* Dkit_Dragdrop.bundle */,
-				8BDF428E1020AEB0DADBA147 /* Dkit_Dragdrop.framework */,
-				F8B79C8F832C7776969045BC /* Dkit_Dragdrop.framework */,
-				CA1B4B3EC2C57AF9F1E4280B /* Pods_Dkit_Dragdrop_Example.framework */,
-				235FB63A60ABDAF9DD64DE4F /* Pods_Dkit_Dragdrop_Tests.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		BAE9620CCE939DDB9867DC96 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				3476ACC4D14F0A72F755F73A /* Info.plist */,
-				64D2181CD3CBFCD82FDE8978 /* Info.plist */,
-				A1F7ABBCF78549C02C88ED07 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.modulemap */,
-				90EE90D4143A7FF33B1E0AA1 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.xcconfig */,
-				CC64E078DE731762DAB72FF8 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig */,
-				4325CA631F40737C9520EDB0 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-dummy.m */,
-				7829336D7B3311EDCD906EB1 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-prefix.pch */,
-				FA9D926AD318A158998F4705 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-umbrella.h */,
-				F275227BF91BCB2B46952433 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap */,
-				F077C33F624ED3D99A12728B /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.xcconfig */,
-				AB69E9B1738B20CC151508D3 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig */,
-				3085E34CF13F610DC2B15ED2 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m */,
-				CEF37F4D3D14EEFD38153EB7 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-prefix.pch */,
-				03B0DB21AD419670086F0136 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop";
-			sourceTree = "<group>";
-		};
-		CD423312C7410C5B87E7AB71 /* Dkit_Dragdrop */ = {
-			isa = PBXGroup;
-			children = (
-				9AFD1DF7B810C6738ED2BED8 /* Pod */,
-				BAE9620CCE939DDB9867DC96 /* Support Files */,
+				99222A24807EBE4BEEEAE70E /* Pod */,
+				F9D985AA707E49F8B7320411 /* Support Files */,
 			);
 			name = Dkit_Dragdrop;
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		D8CA998C35CA494909113C00 = {
+		5E23C9D50EF2E8044C8E4AC0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0FFA3FD2E8729360317A7A06 /* Podfile */,
-				601C495C124B33E38948DC85 /* Development Pods */,
-				E71A5B110160F2CB19EFB9B5 /* Frameworks */,
-				9DF45B884C69EA4FACE259C6 /* Products */,
-				5BD6502D184493CB5622FF86 /* Targets Support Files */,
+				B4BF10AFBCFCE1190CFFD96D /* Dkit_Dragdrop.bundle */,
+				B948C033C92594D84485C348 /* Dkit_Dragdrop.bundle */,
+				6AC29EE749CBE69B9145516D /* Dkit_Dragdrop.framework */,
+				986AC301F4755EFC6AB4097F /* Dkit_Dragdrop.framework */,
+				1E3AD19D0B03226531826A37 /* Pods_Dkit_Dragdrop_Example.framework */,
+				7B991DD6FD74340646835B86 /* Pods_Dkit_Dragdrop_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		606AAEA6716B6409337CBEE3 = {
+			isa = PBXGroup;
+			children = (
+				CDEA70E7EA5613611FF5D9C0 /* Podfile */,
+				B3299B4C464A6DEACA84D211 /* Development Pods */,
+				ECE6ECBD64C816384486AEB2 /* Frameworks */,
+				5E23C9D50EF2E8044C8E4AC0 /* Products */,
+				D119750643BC99FCC2B301AC /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		E71A5B110160F2CB19EFB9B5 /* Frameworks */ = {
+		6B07D6BA512B6F91DB085F21 /* Pods-Dkit_Dragdrop_Example */ = {
 			isa = PBXGroup;
 			children = (
-				F20E7071DC88146853EA3649 /* iOS */,
+				53D28C2CD45E7DACE5B477CF /* Info.plist */,
+				D9F825561F85B73AE9FA14F7 /* Pods-Dkit_Dragdrop_Example.modulemap */,
+				9D8DA4E324CC4EAEA20143C9 /* Pods-Dkit_Dragdrop_Example-acknowledgements.markdown */,
+				BE50A3A994E2A6104563783D /* Pods-Dkit_Dragdrop_Example-acknowledgements.plist */,
+				FC772775EEF238A120771F96 /* Pods-Dkit_Dragdrop_Example-dummy.m */,
+				7B1796824C6D4F20D82C0AE1 /* Pods-Dkit_Dragdrop_Example-environment.h */,
+				10F983B582923DBAFB5B3FA9 /* Pods-Dkit_Dragdrop_Example-frameworks.sh */,
+				0585A34F8CFDB6D5F9B2BBB9 /* Pods-Dkit_Dragdrop_Example-resources.sh */,
+				5901DA8C60C58A48EBA5D123 /* Pods-Dkit_Dragdrop_Example-umbrella.h */,
+				30501EAAA496CEAC0B6507BB /* Pods-Dkit_Dragdrop_Example.debug.xcconfig */,
+				5BBAD80378ED47ACCF2E1062 /* Pods-Dkit_Dragdrop_Example.release.xcconfig */,
+			);
+			name = "Pods-Dkit_Dragdrop_Example";
+			path = "Target Support Files/Pods-Dkit_Dragdrop_Example";
+			sourceTree = "<group>";
+		};
+		99222A24807EBE4BEEEAE70E /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				D9BFC4B18FA97DE1CFF25098 /* Classes */,
+			);
+			path = Pod;
+			sourceTree = "<group>";
+		};
+		B3299B4C464A6DEACA84D211 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				12CAE8546D9E718E17653E02 /* Dkit_Dragdrop */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		D119750643BC99FCC2B301AC /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				6B07D6BA512B6F91DB085F21 /* Pods-Dkit_Dragdrop_Example */,
+				0C9FD4C5F2F046474D7CEAC4 /* Pods-Dkit_Dragdrop_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		D9BFC4B18FA97DE1CFF25098 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4B47D32241BAC07B9664CF9D /* DKDraggableView.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		ECE6ECBD64C816384486AEB2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1159F1ACC3C1A03E8A6C992A /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		F20E7071DC88146853EA3649 /* iOS */ = {
+		F9D985AA707E49F8B7320411 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				3F95AEE7778393049AB53F93 /* Foundation.framework */,
+				35234AD9FDDB1D9201DD1C92 /* Info.plist */,
+				5341A30D9A6DCA4E702F6F62 /* Info.plist */,
+				2B3C5511E01F2319362B7B72 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.modulemap */,
+				21DC691B830CF05F2C11528E /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.xcconfig */,
+				59BBAAA66439A21B099DC052 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig */,
+				32512CD2D8D8A5B02EAE267D /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-dummy.m */,
+				0A545C863AB516323A9CCCB2 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-prefix.pch */,
+				779BD03528A56EFF9679BF15 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-umbrella.h */,
+				8A20C38AA0A6D670B4485D76 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap */,
+				8F5008BE36CE88156CAEB6B5 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.xcconfig */,
+				912A5CDC14B7E3F83BC176AA /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig */,
+				AD861FB03774976D9AC6D24A /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m */,
+				7C12730BD2593994CF06F3A6 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-prefix.pch */,
+				1045F8871253626EA2AA7AE1 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h */,
 			);
-			name = iOS;
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		12EA1C8703919EA04EA25FFF /* Headers */ = {
+		0247F862CA6BA9992E855FCB /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BFB4359C5E19BB569A3DCB65 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h in Headers */,
+				82CB8455BE6FE57CFE663529 /* Pods-Dkit_Dragdrop_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1CE77A06FBDAAC4F4A5C719E /* Headers */ = {
+		A5C4B613C6811D04345B564F /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0544615D0CBED6563C399F2 /* Pods-Dkit_Dragdrop_Tests-umbrella.h in Headers */,
+				C4F3E30D4D0FA65118FB7767 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		67986AA2F0C8099511FA6A7B /* Headers */ = {
+		A7AED562EF28912196F70179 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A51F17FE56F2CD7BA13ADE65 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-umbrella.h in Headers */,
+				D92985272AD59644A50E9B02 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		840671088BC9DFC61D3E5D9F /* Headers */ = {
+		EC3CD269C442A04BF9921CC0 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B5B97FC8F1AD6AB1BBF9E9C3 /* Pods-Dkit_Dragdrop_Example-umbrella.h in Headers */,
+				6AF15BEF49B8BF0B42839006 /* Pods-Dkit_Dragdrop_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		5C8CB62DE55EE1ED7E217641 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop */ = {
+		77C5E71091B6FA59682B8244 /* Pods-Dkit_Dragdrop_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EA16FFC83CEAB4F4F55911FE /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop" */;
+			buildConfigurationList = 0314D8A433C48F75FD30D196 /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Example" */;
 			buildPhases = (
-				B7A79B3434FD32B440621E83 /* Sources */,
-				44E3CF9D27C486AF31E54209 /* Frameworks */,
-				FEC45D6E19178B6F83367691 /* Resources */,
-				67986AA2F0C8099511FA6A7B /* Headers */,
+				A4F771AC4404C9F56ADF50A8 /* Sources */,
+				3E45DBF542B9F228A6C3BF7C /* Frameworks */,
+				0247F862CA6BA9992E855FCB /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				9D692DD036D239AF92D1201B /* PBXTargetDependency */,
-			);
-			name = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop";
-			productName = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop";
-			productReference = 8BDF428E1020AEB0DADBA147 /* Dkit_Dragdrop.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		661F67ED3513884A358CE332 /* Pods-Dkit_Dragdrop_Example */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 719CAAF71297C8515A347953 /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Example" */;
-			buildPhases = (
-				CCB1170F2CB47CC0C2E3EB37 /* Sources */,
-				6C104BBC246B53779B285A67 /* Frameworks */,
-				840671088BC9DFC61D3E5D9F /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				D9A7692FAF8C40F5351F3710 /* PBXTargetDependency */,
+				BC40E8A13CDBB851D65DAE0A /* PBXTargetDependency */,
 			);
 			name = "Pods-Dkit_Dragdrop_Example";
 			productName = "Pods-Dkit_Dragdrop_Example";
-			productReference = CA1B4B3EC2C57AF9F1E4280B /* Pods_Dkit_Dragdrop_Example.framework */;
+			productReference = 1E3AD19D0B03226531826A37 /* Pods_Dkit_Dragdrop_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		8EFD2E602F6F4FB250DFE978 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop */ = {
+		93606AEB0067CF4F741632FA /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F7F3579B7328B11AE23FAB60 /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop" */;
+			buildConfigurationList = CF5A71F06B04A8FDDFBB2F8B /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop" */;
 			buildPhases = (
-				238BD60C4736A35AFCB17E61 /* Sources */,
-				64FAA78C6AF1AE347C23D616 /* Frameworks */,
-				D549D727DD3B6263576ED131 /* Resources */,
+				9518025B1911C4B1B7EF517A /* Sources */,
+				2E68E914005E6C1D923F3B78 /* Frameworks */,
+				4F679C5506E68366200378A6 /* Resources */,
+				A5C4B613C6811D04345B564F /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				64A8069FDE2706E68F3EE576 /* PBXTargetDependency */,
+			);
+			name = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop";
+			productName = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop";
+			productReference = 6AC29EE749CBE69B9145516D /* Dkit_Dragdrop.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		984D6F9B80CA425068DCC5E0 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7B3FE4196BCC1FE5230FE342 /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop" */;
+			buildPhases = (
+				5837BCB8F1682AC58FADA470 /* Sources */,
+				AB17013A5D50D2463C941EE4 /* Frameworks */,
+				F8F0F196412897260DA2FB7E /* Resources */,
 			);
 			buildRules = (
 			);
@@ -386,16 +386,53 @@
 			);
 			name = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop";
 			productName = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop";
-			productReference = 1BFD507D4C10C822DF833D7D /* Dkit_Dragdrop.bundle */;
+			productReference = B948C033C92594D84485C348 /* Dkit_Dragdrop.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
-		930EB381397EE7E5BB26F735 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop */ = {
+		9A8BD593359AA502E79D8ED2 /* Pods-Dkit_Dragdrop_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 427F0B16611240BD8288370F /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop" */;
+			buildConfigurationList = 821EB5A01329306C1DE85DCB /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Tests" */;
 			buildPhases = (
-				1F0286AA4A0CB69E3F905B02 /* Sources */,
-				4BA0B3C9F02D3F96F51F4490 /* Frameworks */,
-				48C5DCEC1A72A17840B70F1A /* Resources */,
+				3DCB9053832A79C85D3E20D7 /* Sources */,
+				12DDF2BF40B7098CAA3CA986 /* Frameworks */,
+				EC3CD269C442A04BF9921CC0 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				29DD8BD0DCC9EF81C657B604 /* PBXTargetDependency */,
+			);
+			name = "Pods-Dkit_Dragdrop_Tests";
+			productName = "Pods-Dkit_Dragdrop_Tests";
+			productReference = 7B991DD6FD74340646835B86 /* Pods_Dkit_Dragdrop_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		ABE44063E81C01424D9E5F10 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2F77DFCC3918E248EA81E11A /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop" */;
+			buildPhases = (
+				9BEA35E2E46FA104EE96E233 /* Sources */,
+				7AFCA67B17C25DCC1BEFF0A7 /* Frameworks */,
+				5FB8E54B446213FEB944CD2F /* Resources */,
+				A7AED562EF28912196F70179 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B0F972083656CB261FB2F327 /* PBXTargetDependency */,
+			);
+			name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop";
+			productName = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop";
+			productReference = 986AC301F4755EFC6AB4097F /* Dkit_Dragdrop.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		C1D44D547948135A78CDEAD3 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DB38567EB0EE0E18C3BB792E /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop" */;
+			buildPhases = (
+				8421F3BEE946EBD42F26D340 /* Sources */,
+				39B65BD276BAECCBA78ADAD4 /* Frameworks */,
+				6659A2CDC81D2663FAEF0490 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -403,190 +440,243 @@
 			);
 			name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop";
 			productName = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop";
-			productReference = 7484160ADF67E72BBD723DD0 /* Dkit_Dragdrop.bundle */;
+			productReference = B4BF10AFBCFCE1190CFFD96D /* Dkit_Dragdrop.bundle */;
 			productType = "com.apple.product-type.bundle";
-		};
-		B6B8FF5308B96401E86266A0 /* Pods-Dkit_Dragdrop_Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 7B98519EB09B57B8558EFBB2 /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Tests" */;
-			buildPhases = (
-				8F645301D3ED50D1A1AE9A97 /* Sources */,
-				2EDFA8ADA307A0C957F6834E /* Frameworks */,
-				1CE77A06FBDAAC4F4A5C719E /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				781EA0C1DD9693EC7243989F /* PBXTargetDependency */,
-			);
-			name = "Pods-Dkit_Dragdrop_Tests";
-			productName = "Pods-Dkit_Dragdrop_Tests";
-			productReference = 235FB63A60ABDAF9DD64DE4F /* Pods_Dkit_Dragdrop_Tests.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		F05B2D9DF967D21E2D17F2A6 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 5F9652AA66E1F5A50188E484 /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop" */;
-			buildPhases = (
-				FAB5BD9DC542E562CE6CF064 /* Sources */,
-				ADF539A9653C0FF656A40BBF /* Frameworks */,
-				70D3FE823077CBF76320AFE5 /* Resources */,
-				12EA1C8703919EA04EA25FFF /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				3C30155FA71DCB7CB0E56EFA /* PBXTargetDependency */,
-			);
-			name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop";
-			productName = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop";
-			productReference = F8B79C8F832C7776969045BC /* Dkit_Dragdrop.framework */;
-			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		2D95122E28F7B188538E20DF /* Project object */ = {
+		3D780E7D7CE3D4D29D461AF8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 			};
-			buildConfigurationList = 877115E4F758541FDCAFAC23 /* Build configuration list for PBXProject "Pods" */;
+			buildConfigurationList = 5177F5C14FA5FFF85C5AF77D /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = D8CA998C35CA494909113C00;
-			productRefGroup = 9DF45B884C69EA4FACE259C6 /* Products */;
+			mainGroup = 606AAEA6716B6409337CBEE3;
+			productRefGroup = 5E23C9D50EF2E8044C8E4AC0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				661F67ED3513884A358CE332 /* Pods-Dkit_Dragdrop_Example */,
-				5C8CB62DE55EE1ED7E217641 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop */,
-				8EFD2E602F6F4FB250DFE978 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop */,
-				B6B8FF5308B96401E86266A0 /* Pods-Dkit_Dragdrop_Tests */,
-				F05B2D9DF967D21E2D17F2A6 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop */,
-				930EB381397EE7E5BB26F735 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop */,
+				77C5E71091B6FA59682B8244 /* Pods-Dkit_Dragdrop_Example */,
+				93606AEB0067CF4F741632FA /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop */,
+				984D6F9B80CA425068DCC5E0 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop */,
+				9A8BD593359AA502E79D8ED2 /* Pods-Dkit_Dragdrop_Tests */,
+				ABE44063E81C01424D9E5F10 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop */,
+				C1D44D547948135A78CDEAD3 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		48C5DCEC1A72A17840B70F1A /* Resources */ = {
+		4F679C5506E68366200378A6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B761DCDE00EF725AF3D73DDB /* Dkit_Dragdrop.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5FB8E54B446213FEB944CD2F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88E9D10D3FB9AFD86A708B96 /* Dkit_Dragdrop.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6659A2CDC81D2663FAEF0490 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		70D3FE823077CBF76320AFE5 /* Resources */ = {
+		F8F0F196412897260DA2FB7E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				849C93D46BC3F0E55C98240A /* Dkit_Dragdrop.bundle in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D549D727DD3B6263576ED131 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		FEC45D6E19178B6F83367691 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DC30DBAB04615AEA0823C55E /* Dkit_Dragdrop.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1F0286AA4A0CB69E3F905B02 /* Sources */ = {
+		3DCB9053832A79C85D3E20D7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001F318170E642A4F6CE1F61 /* Pods-Dkit_Dragdrop_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5837BCB8F1682AC58FADA470 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		238BD60C4736A35AFCB17E61 /* Sources */ = {
+		8421F3BEE946EBD42F26D340 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8F645301D3ED50D1A1AE9A97 /* Sources */ = {
+		9518025B1911C4B1B7EF517A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F69E4D2F9FE314F093B4CBC5 /* Pods-Dkit_Dragdrop_Tests-dummy.m in Sources */,
+				227E41B07E4D30643EB9D963 /* DKDraggableView.swift in Sources */,
+				96B013B44E18EBA9D71A56C8 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B7A79B3434FD32B440621E83 /* Sources */ = {
+		9BEA35E2E46FA104EE96E233 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				87B01D2FEA4FD9AD8131D9F0 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-dummy.m in Sources */,
-				FC268288F6053180C19D65AD /* ReplaceMe.swift in Sources */,
+				61FE33016562BE2C200A6ED0 /* DKDraggableView.swift in Sources */,
+				CACB710CD3C65EF6C3E4D5E6 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CCB1170F2CB47CC0C2E3EB37 /* Sources */ = {
+		A4F771AC4404C9F56ADF50A8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1FC500F6BBCA3B00CC53C7E8 /* Pods-Dkit_Dragdrop_Example-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		FAB5BD9DC542E562CE6CF064 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				AB615794498C7A52D3405D83 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-dummy.m in Sources */,
-				5C6FC43CEF410866F7E4E4D8 /* ReplaceMe.swift in Sources */,
+				8E6C4B85616CA2DA861B1A7B /* Pods-Dkit_Dragdrop_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		3C30155FA71DCB7CB0E56EFA /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop";
-			target = 930EB381397EE7E5BB26F735 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop */;
-			targetProxy = 27B7DDC144117275CCF96B78 /* PBXContainerItemProxy */;
-		};
-		781EA0C1DD9693EC7243989F /* PBXTargetDependency */ = {
+		29DD8BD0DCC9EF81C657B604 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop";
-			target = F05B2D9DF967D21E2D17F2A6 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop */;
-			targetProxy = E0DE571A7882CB81BF664F9C /* PBXContainerItemProxy */;
+			target = ABE44063E81C01424D9E5F10 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop */;
+			targetProxy = 4294024E7EA8E9AE49A33FB1 /* PBXContainerItemProxy */;
 		};
-		9D692DD036D239AF92D1201B /* PBXTargetDependency */ = {
+		64A8069FDE2706E68F3EE576 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop";
-			target = 8EFD2E602F6F4FB250DFE978 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop */;
-			targetProxy = D8B6AF29D712AE9A524C832D /* PBXContainerItemProxy */;
+			target = 984D6F9B80CA425068DCC5E0 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop */;
+			targetProxy = D2341C8EE445225072D23ECE /* PBXContainerItemProxy */;
 		};
-		D9A7692FAF8C40F5351F3710 /* PBXTargetDependency */ = {
+		B0F972083656CB261FB2F327 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop";
+			target = C1D44D547948135A78CDEAD3 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop */;
+			targetProxy = AEB013612D58A74AB99016AC /* PBXContainerItemProxy */;
+		};
+		BC40E8A13CDBB851D65DAE0A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop";
-			target = 5C8CB62DE55EE1ED7E217641 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop */;
-			targetProxy = D06BC27E1157A456F2F149C8 /* PBXContainerItemProxy */;
+			target = 93606AEB0067CF4F741632FA /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop */;
+			targetProxy = 371A7BD8A8FCCAC97188953C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		063CB0A037F152A7F73470EE /* Debug */ = {
+		035AA40C707E9139474FB815 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5F04CDD6BCDE3C415B1740B6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4AC33630641A643CCF80DD8 /* Pods-Dkit_Dragdrop_Tests.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests/Pods-Dkit_Dragdrop_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_Dkit_Dragdrop_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		76B4A761AB4BE3DC110414DB /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 59BBAAA66439A21B099DC052 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = Dkit_Dragdrop;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		8BFE2A6EB9E521E88A62CDE6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -625,93 +715,9 @@
 			};
 			name = Debug;
 		};
-		262D5BF3712DEE7F64D2E1DF /* Debug */ = {
+		9249595EEEA9848C895DABD2 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CC64E078DE731762DAB72FF8 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = Dkit_Dragdrop;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		29A02C42636357EBFFEC5E0E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = AB69E9B1738B20CC151508D3 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-Dkit_Dragdrop_Tests";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = Dkit_Dragdrop;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
-		40036DDA9B5B14718BBB2C65 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 015DD16762FC6C2A54D5B94F /* Pods-Dkit_Dragdrop_Tests.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests/Pods-Dkit_Dragdrop_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = Pods_Dkit_Dragdrop_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		461A0EBCC62BB84B1130CCFB /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = AB69E9B1738B20CC151508D3 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-Dkit_Dragdrop_Tests";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = Dkit_Dragdrop;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
-		47E63D4E416430D919B31311 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CC64E078DE731762DAB72FF8 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig */;
+			baseConfigurationReference = 59BBAAA66439A21B099DC052 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig */;
 			buildSettings = {
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-Dkit_Dragdrop_Example";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -722,9 +728,9 @@
 			};
 			name = Debug;
 		};
-		95362A30C79BEFC0B61833DB /* Release */ = {
+		965A7B3E00FB188B6C2B966A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AB69E9B1738B20CC151508D3 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig */;
+			baseConfigurationReference = 912A5CDC14B7E3F83BC176AA /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -739,19 +745,20 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_ENABLE_DEBUG_INFO = YES;
 				PRODUCT_NAME = Dkit_Dragdrop;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		AC97B63139CED6474A28CFAE /* Release */ = {
+		9A6BC216BBA8AE772512234E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 06BE4483A2165B45CA75B1F9 /* Pods-Dkit_Dragdrop_Example.release.xcconfig */;
+			baseConfigurationReference = 5BBAD80378ED47ACCF2E1062 /* Pods-Dkit_Dragdrop_Example.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -778,106 +785,22 @@
 			};
 			name = Release;
 		};
-		AD6444E48955EA2DEA572204 /* Release */ = {
+		A8AB36684AB4BC3FC4DF8F0F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CC64E078DE731762DAB72FF8 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig */;
+			baseConfigurationReference = 912A5CDC14B7E3F83BC176AA /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig */;
 			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-Dkit_Dragdrop_Example";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-Dkit_Dragdrop_Tests";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				PRODUCT_NAME = Dkit_Dragdrop;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = bundle;
 			};
-			name = Release;
-		};
-		D9740B1B8231F026801D7EAB /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C308C4A283FF8570848D0385 /* Pods-Dkit_Dragdrop_Tests.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests/Pods-Dkit_Dragdrop_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = Pods_Dkit_Dragdrop_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		DE13CDB81D7C42F227998CF3 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CC64E078DE731762DAB72FF8 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = Dkit_Dragdrop;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		E41D0F5443CE59B3A4F64439 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = AB69E9B1738B20CC151508D3 /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = Dkit_Dragdrop;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
 			name = Debug;
 		};
-		F06CED1825577A31FB11BCDB /* Debug */ = {
+		A8E86F186A76AF39FD17A29F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8084E2634591DFE4406F67C1 /* Pods-Dkit_Dragdrop_Example.debug.xcconfig */;
+			baseConfigurationReference = 30501EAAA496CEAC0B6507BB /* Pods-Dkit_Dragdrop_Example.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -905,107 +828,183 @@
 			};
 			name = Debug;
 		};
-		F16DDB4AF1DB9E1DECE0A381 /* Release */ = {
+		AF2D429F5636B7FFE0D6E545 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 912A5CDC14B7E3F83BC176AA /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig */;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COPY_PHASE_STRIP = YES;
-				ENABLE_NS_ASSERTIONS = NO;
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				STRIP_INSTALLED_PRODUCT = NO;
-				SYMROOT = "${SRCROOT}/../build";
-				VALIDATE_PRODUCT = YES;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = Dkit_Dragdrop;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D0B7EECD2A95A688B0E8696B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 59BBAAA66439A21B099DC052 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-Dkit_Dragdrop_Example";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = Dkit_Dragdrop;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		E655AAE7D82EE137B9611264 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 59BBAAA66439A21B099DC052 /* Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = Dkit_Dragdrop;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		F1017CE3C63D3C23CDBDD490 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C949D98C8F38017AB625C37C /* Pods-Dkit_Dragdrop_Tests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests/Pods-Dkit_Dragdrop_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_Dkit_Dragdrop_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		F319CE9191341B4B6A677E77 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 912A5CDC14B7E3F83BC176AA /* Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Private.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-Dkit_Dragdrop_Tests";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = Dkit_Dragdrop;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		427F0B16611240BD8288370F /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop" */ = {
+		0314D8A433C48F75FD30D196 /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				29A02C42636357EBFFEC5E0E /* Debug */,
-				461A0EBCC62BB84B1130CCFB /* Release */,
+				A8E86F186A76AF39FD17A29F /* Debug */,
+				9A6BC216BBA8AE772512234E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5F9652AA66E1F5A50188E484 /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop" */ = {
+		2F77DFCC3918E248EA81E11A /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E41D0F5443CE59B3A4F64439 /* Debug */,
-				95362A30C79BEFC0B61833DB /* Release */,
+				965A7B3E00FB188B6C2B966A /* Debug */,
+				AF2D429F5636B7FFE0D6E545 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		719CAAF71297C8515A347953 /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Example" */ = {
+		5177F5C14FA5FFF85C5AF77D /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F06CED1825577A31FB11BCDB /* Debug */,
-				AC97B63139CED6474A28CFAE /* Release */,
+				8BFE2A6EB9E521E88A62CDE6 /* Debug */,
+				035AA40C707E9139474FB815 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7B98519EB09B57B8558EFBB2 /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Tests" */ = {
+		7B3FE4196BCC1FE5230FE342 /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				40036DDA9B5B14718BBB2C65 /* Debug */,
-				D9740B1B8231F026801D7EAB /* Release */,
+				9249595EEEA9848C895DABD2 /* Debug */,
+				D0B7EECD2A95A688B0E8696B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		877115E4F758541FDCAFAC23 /* Build configuration list for PBXProject "Pods" */ = {
+		821EB5A01329306C1DE85DCB /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				063CB0A037F152A7F73470EE /* Debug */,
-				F16DDB4AF1DB9E1DECE0A381 /* Release */,
+				5F04CDD6BCDE3C415B1740B6 /* Debug */,
+				F1017CE3C63D3C23CDBDD490 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EA16FFC83CEAB4F4F55911FE /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop" */ = {
+		CF5A71F06B04A8FDDFBB2F8B /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				262D5BF3712DEE7F64D2E1DF /* Debug */,
-				DE13CDB81D7C42F227998CF3 /* Release */,
+				E655AAE7D82EE137B9611264 /* Debug */,
+				76B4A761AB4BE3DC110414DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F7F3579B7328B11AE23FAB60 /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-Dkit_Dragdrop" */ = {
+		DB38567EB0EE0E18C3BB792E /* Build configuration list for PBXNativeTarget "Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-Dkit_Dragdrop" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				47E63D4E416430D919B31311 /* Debug */,
-				AD6444E48955EA2DEA572204 /* Release */,
+				A8AB36684AB4BC3FC4DF8F0F /* Debug */,
+				F319CE9191341B4B6A677E77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 2D95122E28F7B188538E20DF /* Project object */;
+	rootObject = 3D780E7D7CE3D4D29D461AF8 /* Project object */;
 }

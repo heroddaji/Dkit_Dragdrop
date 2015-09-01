@@ -1,9 +1,9 @@
 {
   "name": "Dkit_Dragdrop",
   "version": "0.1.0",
-  "summary": "A short description of Dkit_Dragdrop.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/Dkit_Dragdrop",
+  "summary": "A simple drag and drop lib",
+  "description": "a simple iOS Swift lib for drag and drop animation\n",
+  "homepage": "https://github.com/heroddaji/Dkit_Dragdrop",
   "license": "MIT",
   "authors": {
     "daitran": "tranhoangdainguyen@gmail.com"

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5C8CB62DE55EE1ED7E217641"
+               BlueprintIdentifier = "93606AEB0067CF4F741632FA"
                BuildableName = "Dkit_Dragdrop.framework"
                BlueprintName = "Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop"
                ReferencedContainer = "container:Pods.xcodeproj">
