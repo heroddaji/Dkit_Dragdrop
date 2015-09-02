@@ -449,6 +449,7 @@
 		3D780E7D7CE3D4D29D461AF8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 			};
 			buildConfigurationList = 5177F5C14FA5FFF85C5AF77D /* Build configuration list for PBXProject "Pods" */;
@@ -632,7 +633,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests/Pods-Dkit_Dragdrop_Tests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -663,7 +664,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
@@ -742,7 +743,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -769,7 +770,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example/Pods-Dkit_Dragdrop_Example.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
@@ -811,7 +812,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example/Pods-Dkit_Dragdrop_Example.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -842,7 +843,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Tests-Dkit_Dragdrop.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
@@ -882,7 +883,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop/Pods-Dkit_Dragdrop_Example-Dkit_Dragdrop.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -909,7 +910,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				INFOPLIST_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Pods-Dkit_Dragdrop_Tests/Pods-Dkit_Dragdrop_Tests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;

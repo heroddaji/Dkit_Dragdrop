@@ -17,14 +17,14 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
-a simple iOS Swift lib for drag and drop animation
+a simple subclass of UIImageview, written Swift for enabling drag and drop with animation.
                        DESC
 
   s.homepage         = "https://github.com/heroddaji/Dkit_Dragdrop"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "daitran" => "tranhoangdainguyen@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/Dkit_Dragdrop.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/heroddaji/Dkit_Dragdrop.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '8.0'

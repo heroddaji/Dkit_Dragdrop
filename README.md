@@ -5,11 +5,43 @@
 [![License](https://img.shields.io/cocoapods/l/Dkit_Dragdrop.svg?style=flat)](http://cocoapods.org/pods/Dkit_Dragdrop)
 [![Platform](https://img.shields.io/cocoapods/p/Dkit_Dragdrop.svg?style=flat)](http://cocoapods.org/pods/Dkit_Dragdrop)
 
+## Overview
+
+a simple subclass of UIImageview, written Swift for enabling drag and drop with animation.
+
 ## Usage
+let's say you want to drag an apple(DKDraggableView) to cart(UIImageView), and perform some actions when you drop on imageView2.
+
+you set the drop target with apple.setDropTarget(cart). And get notified on drop by implement the method onDropedToTarget() of the DKDraggableViewDelegate protocol
+
+```Swift
+class DraggableViewController: UIViewController, DKDraggableViewDelegate {
+
+@IBOutlet weak var apple:DKDraggableView!
+@IBOutlet weak var cart: UIImageView!
+
+override func viewDidLoad() {
+    super.viewDidLoad()
+
+    apple.delegate = self
+    apple.enableDragging = true
+    apple.setDropTarget(cart)
+}
+
+func onDropedToTarget(sender: DKDraggableView, target:UIView) {
+        NSLog("Drop to target \(target.tag)")
+    }
+}
+
+```
+
+## Example Project
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+iOS 8.0
 
 ## Installation
 
