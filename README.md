@@ -10,9 +10,15 @@
 a simple subclass of UIImageview, written Swift for enabling drag and drop with animation.
 
 ## Usage
-let's say you want to drag an apple(DKDraggableView) to cart(UIImageView), and perform some actions when you drop on imageView2.
+let's say you want to drag an apple(DKDraggableView) to cart(UIImageView), and perform some actions when you drop on cart.
 
-you set the drop target with apple.setDropTarget(cart). And get notified on drop by implement the method onDropedToTarget() of the DKDraggableViewDelegate protocol
+you set the drop target with 
+```
+apple.enableDragging = true
+apple.setDropTarget(cart)
+
+```
+And get notified on drop by implement the method onDropedToTarget() of DKDraggableViewDelegate protocol
 
 ```Swift
 class DraggableViewController: UIViewController, DKDraggableViewDelegate {
