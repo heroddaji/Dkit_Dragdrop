@@ -7,7 +7,9 @@
 
 ## Overview
 
-a simple subclass of UIImageview, written Swift for enabling drag and drop with animation.
+a simple subclass of UIImageview, written in Swift to enable drag and drop with animation.
+
+![](image.gif?raw=true "Dkit_Dragdrop screenshot")
 
 ## Usage
 let's say you want to drag an apple(DKDraggableView) to cart(UIImageView), and perform some actions when you drop on cart.
